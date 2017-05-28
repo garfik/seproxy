@@ -1,0 +1,15 @@
+{
+  "name": "seproxy",
+  "version": "1.0.0",
+  "description": "HTTP debugging proxy for selenium with REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kulikov Dmitrii",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "node-http-proxy": "^0.2.3"
+  }
+}
