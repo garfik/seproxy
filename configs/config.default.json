@@ -1,0 +1,7 @@
+{
+    "proxyUrls": ["localhost:8010", "seproxy"],
+    "userAgentSpecialField": "se-proxy-id",
+    "logLevel": "warn",
+    "defaultTimeout": 55000,
+    "proxyPort": 8010
+}
